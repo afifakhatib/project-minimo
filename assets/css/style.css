@@ -1,0 +1,155 @@
+                     /********************** header section starting *************************************/
+					 
+.header{
+	padding:70px 0 50px;
+	width:100%;
+	background-color:#ffffff;
+}
+
+.logo{
+	display:inline-block;
+}
+
+.navbar ul{
+	display:inline-block;
+}
+
+.navbar ul li {
+	display:inline-block;
+	margin-left:30px;
+}
+
+.navbar li a {
+	display:inline-block;
+	color:#010101;
+	padding:0px 30px;
+	color:#626262;
+	font-size:14px;
+	font-weight:normal;
+	height:27px;
+	line-height:27px;
+}
+
+.comment{
+	height:50px;
+	padding:0 25px;
+	width:100%;
+	outline:none;
+	border:0px !important;
+	text-transform:uppercase;
+}
+
+
+
+
+                               /******************************image section********************************/
+							  
+.img-section{
+	padding-bottom:120px;
+	width:100%;
+	background-color:#ffffff;
+}
+
+
+.img-section .pre-heading{
+	margin-left:20px;
+	margin-top:25px;
+}
+.img-section .sec-heading{
+	font-size:25px;
+	margin-left:20px;
+}
+
+
+                             /********************footer section start********************************/
+							
+.footer{
+	width:100%;
+	padding:35px 0 35px;
+	background-color:white;
+}
+
+
+.footer .newsletter, .footer .email{
+	background-color:#f0f0f0;
+}
+
+.email{
+	height:50px;
+	padding:25px;
+    margin-bottom:35px;	
+	width:100%;
+	outline:none;
+	border:0px;
+	font-size: 14px;
+    line-height: 24px;
+     color: #626262;  
+}
+
+.email::after,
+.email::before{
+	text-decoration:underline;
+}
+
+
+.footer .pre-heading{
+	margin-left:20px;
+	margin-top:25px;
+}
+
+.footer .sec-heading{
+	font-size:25px;
+	margin-left:20px;
+}
+
+.footer .para-info{
+	margin-bottom:80px;
+}
+
+.more a{
+	padding:15px;
+	border:2px solid black;
+	display:inline-block;
+	color:#626262;
+	font-size:16px;
+	font-weight:normal;
+	transition:all 0.7s linear;
+
+}
+.more:hover,
+.more:active,
+.more:focus{
+	background-color: white;
+	color:#010101;
+	border:2px solid #010101;
+}
+
+.condition a{
+	display:inline-block;
+	line-height:65px;
+}
+
+.text a{
+	display:inline-block;
+	padding:20px 0;
+}
+	
+.text .icon{
+	display:inline-block;
+}
+
+.text .icon li{
+	display:inline-block;
+}
+
+.icon li a{
+	padding:5px 10px;
+	color:#626262;
+	font-weight:normal;
+    font-size:20px;
+    display: inline-block;		
+}
+
+.color{
+	background-color:#f0f0f0;
+}
